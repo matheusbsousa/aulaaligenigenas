@@ -6,7 +6,7 @@ public class Main {
         //Executar um código que para o fluxo do while caso uma condição seja alcançada dentro do while
         int numero = 0;
 
-        while (false) {
+        while (true) {
 
             System.out.println("Ainda não parei de executar");
 
