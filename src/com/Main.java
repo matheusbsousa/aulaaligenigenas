@@ -8,7 +8,7 @@ public class Main {
 
         while (true) {
 
-            System.out.println("Ainda não parei de executar");
+            System.out.println("Banana é muito bom");
 
             if(numero > 10){
                 System.out.println("Parei de executar");
